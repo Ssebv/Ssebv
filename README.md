@@ -17,9 +17,9 @@
 
 
 
-![](https://github.com/Ssebv/Ssebv/blob/master/Foto3.gif)
-## Hi!! I'm Sebastian Allende, application developer from Chile. I have experience in the design and building in Flutter.⚡
 
+## Hi!! I'm Sebastian Allende, application developer from Chile. I have experience in the design and building in Flutter.⚡
+   <img align="right" alt="GIF" src="https://i.imgur.com/j7hopjV.gif" />
 ## ¡¡Hola!! Soy Sebastian Allende, desarrollador de aplicaciones de Chile. Tengo experiencia en el diseño y construcción en Flutter.⚡
 
 ### Where can you find me 💬. . .
