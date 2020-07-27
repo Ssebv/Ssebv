@@ -1,3 +1,4 @@
+![](https://github.com/Ssebv/Ssebv/source.gif)
 ## Hi!! I'm Sebastian Allende, application developer from Chile. I have experience in the design and building in Flutter.⚡
 
 ## ¡¡Hola!! Soy Sebastian Allende, desarrollador de aplicaciones de Chile. Tengo experiencia en el diseño y construcción en Flutter.⚡
