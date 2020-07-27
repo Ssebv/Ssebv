@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi!! I'm Sebastian Allende, application developer from Chile. I have experience in the design and building in Flutter.⚡
 
-<!--
-**Ssebv/Ssebv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ¡¡Hola!! Soy Sebastian Allende, desarrollador de aplicaciones de Chile. Tengo experiencia en el diseño y construcción en Flutter.⚡
 
-Here are some ideas to get you started:
+### Where can you find me 💬. . .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_Personal_
+
+
+* :star::blush: Fotos, tips and Workout **[Instagram](https://www.instagram.com/Ssebv_)** :v:
+* :star::blush: Algo que no uso x1 **[Facebook](https://facebook.com/SebaAllende77)** :v:
+
+
+
+
+
+
+
