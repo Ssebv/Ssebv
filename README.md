@@ -1,5 +1,5 @@
 <br/>
-
+### Where can you find me 💬. . .
 #My social networks📫
 
 <a href="https://www.instagram.com/Ssebv_/">
@@ -22,14 +22,13 @@
    <img align="right" alt="GIF" src="https://i.imgur.com/j7hopjV.gif" />
 ## ¡¡Hola!! Soy Sebastian Allende, desarrollador de aplicaciones de Chile. Tengo experiencia en el diseño y construcción en Flutter.⚡
 
-### Where can you find me 💬. . .
+
 
 _Personal_
+**Languages and Tools:** 
 
-
-* :star::blush: Fotos, tips and Workout **[Instagram](https://www.instagram.com/Ssebv_)** :v:
-* :star::blush: Algo que no uso x1 **[Facebook](https://facebook.com/SebaAllende77)** :v:
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://avatars1.githubusercontent.com/u/14101776?s=200&v=4"></code>
 
 ![Ssebv_ github stats](https://github-readme-stats.vercel.app/api?username=Ssebv&show_icons=true&hide_border=true)
 
