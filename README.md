@@ -31,6 +31,7 @@ _Personal_
 * :star::blush: Algo que no uso x1 **[Facebook](https://facebook.com/SebaAllende77)** :v:
 
 
+![Ssebv_ github stats](https://github-readme-stats.vercel.app/api?username=Ssebv&show_icons=true&hide_border=true)
 
 
 
