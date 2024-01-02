@@ -91,4 +91,5 @@
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
     <img src="https://img.shields.io/static/v1?label=|&message=BASH SCRIPTING&color=cbb148&style=plastic&logo=GNU Bash"/>
     <img src="https://img.shields.io/static/v1?label=|&message=VIM&color=cbb148&style=plastic&logo=Vim"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=SQL&color=cbb148&style=plastic&logo=SQL"/>
 </p>
