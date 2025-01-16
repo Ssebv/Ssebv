@@ -31,10 +31,7 @@
 </p>
 
 ---
-<!-- Profile View Count and GitStats -->
-<a>
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ssebv&column=9&theme=gruvbox&no-frame=true"/>
-</a>
+
 
 <!-- Description section -->
 <div>
