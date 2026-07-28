@@ -39,6 +39,7 @@ double-counting of inventory cost that had been accumulating unnoticed for over 
 
 | Project | | |
 |---|---|---|
+| [**odoo-19-migration-field-notes**](https://github.com/Ssebv/odoo-19-migration-field-notes) | Field notes from a production Odoo 14 → 19 upgrade — the failures that raise no error | `Open source` |
 | [**systematic-trading-showcase**](https://github.com/Ssebv/systematic-trading-showcase) | Systematic trading research platform — architecture, risk design and engineering writeup | |
 | [**TBSim Genetic Algorithm**](https://github.com/Ssebv/TBSimAlgoritmoGenetico_HPC_LOCAL) | Parallel genetic algorithm (Jenetics) with a computational scalability study — undergraduate thesis | `Java` |
 | [**AI News Analyzer**](https://github.com/Ssebv/AI-Analizer-Llama) | News analysis system built with LangChain and LangGraph behind a Streamlit interface | `Python` |
