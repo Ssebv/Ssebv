@@ -24,9 +24,8 @@ reconcile the inventory ledger against the general ledger, track documents rejec
 and project when authorised invoice numbering ranges will run out. It surfaced a systematic
 double-counting of inventory cost that had been accumulating unnoticed for over a year.
 
-**Built a feature-flag service in Rust from scratch** — [FlagForge](https://github.com/Ssebv/flagforge),
-[live](https://flagforge.fly.dev). A pure evaluation engine with no I/O, which is what lets the same
-crate compile to WebAssembly: the dashboard's rule preview calls the identical function production does,
+**Built a feature-flag service in Rust from scratch** — [FlagForge](https://github.com/Ssebv/flagforge).
+A pure evaluation engine with no I/O, which is what lets the same crate compile to WebAssembly: the dashboard's rule preview calls the identical function production does,
 rather than approximating it. 219 tests, including one that runs a real server on a real socket and
 compares 300 users evaluated locally against the server's answers.
 
@@ -45,7 +44,7 @@ compares 300 users evaluated locally against the server's answers.
 
 | Project | | |
 |---|---|---|
-| [**FlagForge**](https://github.com/Ssebv/flagforge) · [live demo](https://flagforge.fly.dev) | Multi-tenant feature flags: targeted rollouts, reusable segments, deterministic bucketing, an audit trail — and a dashboard that runs the real evaluation engine | `Rust` |
+| [**FlagForge**](https://github.com/Ssebv/flagforge) | Multi-tenant feature flags: targeted rollouts, reusable segments, deterministic bucketing, an audit trail — and a dashboard that runs the real evaluation engine | `Rust` |
 | [**odoo-19-migration-field-notes**](https://github.com/Ssebv/odoo-19-migration-field-notes) | Field notes from a production Odoo 14 → 19 upgrade — the failures that raise no error | `Open source` |
 | [**systematic-trading-showcase**](https://github.com/Ssebv/systematic-trading-showcase) | Systematic trading research platform — architecture, risk design and engineering writeup | |
 | [**TBSim Genetic Algorithm**](https://github.com/Ssebv/TBSimAlgoritmoGenetico_HPC_LOCAL) | Parallel genetic algorithm (Jenetics) with a computational scalability study — undergraduate thesis | `Java` |
