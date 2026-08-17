@@ -27,7 +27,7 @@ double-counting of inventory cost that had been accumulating unnoticed for over 
 **Built a feature-flag service in Rust from scratch** — [FlagForge](https://github.com/Ssebv/flagforge).
 A pure evaluation engine with no I/O, which is what lets the same crate compile to WebAssembly: the dashboard's rule preview calls the identical function production does,
 rather than approximating it. Grew A/B experiments on the same foundation — deterministic bucketing doubles as
-assignment, so counters stay bounded by time rather than traffic. 244 tests, including one that runs a real
+assignment, so counters stay bounded by time rather than traffic. 245 tests, including one that runs a real
 server on a real socket and compares 300 users evaluated locally against the server's answers.
 
 ---
