@@ -34,8 +34,8 @@ server on a real socket and compares 300 users evaluated locally against the ser
 docs with PostgreSQL + pgvector and local models, plus an evaluation suite on 45 hand-written questions. Recall@5 reached
 0.822, and translating the query took Spanish questions from 0.500 to 0.900. The known failures are published with the results.
 
-**Made coding agents my main workflow** — over 2,600 AI-assisted commits on a production ERP.
-[How I build with them →](https://ssebv.github.io/projects/how-i-build.html)
+**Organize development so it can be checked** — clear layers, tests at several levels, staged releases and production monitoring.
+[Process and architecture of five systems →](https://ssebv.github.io/projects/how-i-build.html)
 
 ---
 
@@ -72,7 +72,7 @@ docs with PostgreSQL + pgvector and local models, plus an evaluation suite on 45
 | **Data** | PostgreSQL · SQL / PL-SQL · migrations · ETL · SAP S/4HANA |
 | **Infrastructure** | Linux · Docker · Git · Odoo.sh · AWS · Azure · HPC |
 | **Compliance** | SII (Chile) · DIAN (Colombia) · SUNAT (Peru) · Active Directory · IAM |
-| **AI** | RAG · pgvector · LLM APIs · tool calling · evaluation · Ollama · LangChain · coding agents |
+| **AI** | RAG · pgvector · LLM APIs · tool calling · evaluation · Ollama · LangChain |
 
 ---
 
