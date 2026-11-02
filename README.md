@@ -54,6 +54,7 @@ docs with PostgreSQL + pgvector and local models, plus an evaluation suite on 45
 |---|---|---|
 | [**odoo-rag**](https://github.com/Ssebv/odoo-rag) | RAG over the Odoo 19 docs with hybrid search and a retrieval and answer evaluation suite | `Python` `pgvector` |
 | [**ModoMax**](https://ssebv.github.io/projects/modomax.html) | Online store I designed and built end to end, with a shopping assistant, WhatsApp support and AI admin tools (private source) | `TypeScript` |
+| [**iPhone apps**](https://ssebv.github.io/projects/apps.html) | Norte (native finance and health app), Citofonía (digital intercom for apartment buildings) and Maratón Marvel, with real screens and a video | `SwiftUI` `React Native` |
 | [**FlagForge**](https://github.com/Ssebv/flagforge) | Multi-tenant feature flags: targeted rollouts, reusable segments, A/B experiments, deterministic bucketing, an audit trail — and a dashboard that runs the real evaluation engine | `Rust` |
 | [**odoo-19-migration-field-notes**](https://github.com/Ssebv/odoo-19-migration-field-notes) | Field notes from a production Odoo 14 → 19 upgrade — the failures that raise no error | `Open source` |
 | [**systematic-trading-showcase**](https://github.com/Ssebv/systematic-trading-showcase) | Systematic trading research platform — architecture, risk design and engineering writeup | |
