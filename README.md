@@ -53,9 +53,12 @@ docs with PostgreSQL + pgvector and local models, plus an evaluation suite on 45
 | Project | | |
 |---|---|---|
 | [**odoo-rag**](https://github.com/Ssebv/odoo-rag) | RAG over the Odoo 19 docs with hybrid search and a retrieval and answer evaluation suite | `Python` `pgvector` |
-| [**ModoMax**](https://ssebv.github.io/projects/modomax.html) | Online store I designed and built end to end, with a shopping assistant, WhatsApp support and AI admin tools (private source) | `TypeScript` |
-| [**iPhone apps**](https://ssebv.github.io/projects/apps.html) | Norte (native finance and health app), Citofonía (digital intercom for apartment buildings) and Maratón Marvel, with real screens and a video | `SwiftUI` `React Native` |
 | [**FlagForge**](https://github.com/Ssebv/flagforge) | Multi-tenant feature flags: targeted rollouts, reusable segments, A/B experiments, deterministic bucketing, an audit trail — and a dashboard that runs the real evaluation engine | `Rust` |
+| [**ModoMax**](https://ssebv.github.io/projects/modomax.html) | Online store I designed and built end to end, with a shopping assistant, WhatsApp support and AI admin tools (private source) | `TypeScript` |
+| [**Citofonía**](https://ssebv.github.io/projects/citofonia.html) | Digital intercom for apartment buildings: concierge calls, door opening, parcels and visits, with the call handled on the server and privacy built into the data (private source) | `TypeScript` `React Native` |
+| [**Construye Hoy**](https://ssebv.github.io/projects/construye-hoy.html) | Daily site control for construction firms: a field app, a web panel and AI that reads invoices and take-offs for a person to confirm. In development (private source) | `TypeScript` `Supabase` |
+| [**SAC Next**](https://ssebv.github.io/projects/sac-next.html) | Community alarm platform for a municipal programme: remotes and an app sound street sirens, and an operations room follows each alert live. Consulting work, in development | `TypeScript` `MQTT` |
+| [**iPhone apps**](https://ssebv.github.io/projects/apps.html) | Norte (native finance and health app) and Maratón Marvel, with real screens and a video | `SwiftUI` |
 | [**odoo-19-migration-field-notes**](https://github.com/Ssebv/odoo-19-migration-field-notes) | Field notes from a production Odoo 14 → 19 upgrade — the failures that raise no error | `Open source` |
 | [**systematic-trading-showcase**](https://github.com/Ssebv/systematic-trading-showcase) | Systematic trading research platform — architecture, risk design and engineering writeup | |
 | [**TBSim Genetic Algorithm**](https://github.com/Ssebv/TBSimAlgoritmoGenetico_HPC_LOCAL) | Parallel genetic algorithm (Jenetics) with a computational scalability study — undergraduate thesis | `Java` |
@@ -68,7 +71,8 @@ docs with PostgreSQL + pgvector and local models, plus an evaluation suite on 45
 
 | | |
 |---|---|
-| **Backend** | Python · Odoo 14–19 · FastAPI · REST APIs · Rust (axum, sqlx, Leptos / WASM) · Java · JavaScript / TypeScript |
+| **Backend** | Python · Odoo 14–19 · FastAPI · REST APIs · Rust (axum, sqlx, Leptos / WASM) · TypeScript (Hono, Fastify) · Java |
+| **Frontend & mobile** | Next.js · React · React Native / Expo · SwiftUI |
 | **Data** | PostgreSQL · SQL / PL-SQL · migrations · ETL · SAP S/4HANA |
 | **Infrastructure** | Linux · Docker · Git · Odoo.sh · AWS · Azure · HPC |
 | **Compliance** | SII (Chile) · DIAN (Colombia) · SUNAT (Peru) · Active Directory · IAM |
